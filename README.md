@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hiago Alex vitorino
 - 👀 I’m interested in me torna desenvolvedor web
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projetos praticos e projetos estudantil
 - 📫 How to reach me ...
 
 <!---
